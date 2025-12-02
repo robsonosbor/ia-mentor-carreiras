@@ -48,5 +48,3 @@ Esse roadmap serviu como guia para organizar os estudos semanais e consolidar co
 - A **SPA final** consolidou os estudos em um projeto prático, servindo como portfólio inicial.  
 
 Essa jornada mostra como prompts bem estruturados podem guiar desde a **descoberta de carreira** até a **entrega de um projeto real**.
-
-## 📂 Estrutura do Repositório
