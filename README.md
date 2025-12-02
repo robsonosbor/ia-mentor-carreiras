@@ -1,10 +1,10 @@
-# 📘 Jornada de Aprendizado — Do Entrevistador ao Planejador até a SPA Final
+# Jornada de Aprendizado — Do Entrevistador ao Planejador até a SPA Final
 
 Este repositório documenta uma experiência prática de aprendizado em tecnologia, utilizando **dois agentes de prompts** para guiar a construção de uma carreira e finalizar com um projeto real: uma **SPA simples de apresentação profissional**.
 
 ---
 
-## 🧩 Etapas da Jornada
+## Etapas da Jornada
 
 ### 1. Entrevistador de Carreira (Agent 1)
 - O primeiro agente atuou como **entrevistador estruturado**, conduzindo 7 perguntas para entender:
@@ -41,7 +41,7 @@ Esse roadmap serviu como guia para organizar os estudos semanais e consolidar co
 
 ---
 
-## 🚀 Resultados e Aprendizados
+## Resultados e Aprendizados
 
 - **Agente 1** ajudou a refletir sobre perfil e objetivos.  
 - **Agente 2** organizou um roadmap claro e aplicável.  
