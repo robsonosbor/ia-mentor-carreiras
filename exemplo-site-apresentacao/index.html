@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Robson Dev Lab — Apresentação</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <!-- Header / Navigation -->
+    <header>
+      <nav class="nav">
+        <div class="brand">
+          <span class="brand-badge" aria-hidden="true"></span>
+          <span>Robson Dev Lab</span>
+        </div>
+        <div class="menu">
+          <a href="#home" class="active">Home</a>
+          <a href="#apresentacao">Apresentação</a>
+          <a href="#contato">Contato</a>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <!-- Home -->
+      <section id="home">
+        <div class="hero">
+          <div class="hero-card">
+            <span class="chip">Desenvolvedor Full Stack</span>
+            <h1>Construo experiências web simples, rápidas e confiáveis.</h1>
+            <p>
+              Sou o Robson, desenvolvedor com base sólida em HTML, CSS, JavaScript e back-end em PHP/Node,
+              banco de dados MySQL e experiência com Java em P&D.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Apresentação -->
+      <section id="apresentacao">
+        <h2>Apresentação</h2>
+        <div class="card">
+          <p>
+            Desenvolvedor com experiência prática em web: HTML, CSS, JavaScript e PHP,
+            P&D com Java e banco de dados relacional (MySQL). Foco em evoluir como Full Stack
+            e entregar soluções diretas, com código limpo e documentação objetiva.
+          </p>
+        </div>
+      </section>
+
+      <!-- Contato -->
+      <section id="contato">
+        <h2>Contato</h2>
+        <div class="card">
+          <form onsubmit="event.preventDefault(); alert('Obrigado! Retornarei em breve.');">
+            <label for="nome">Nome</label>
+            <input id="nome" name="nome" placeholder="Seu nome" required />
+            <label for="email">Email</label>
+            <input id="email" name="email" type="email" placeholder="seu@email.com" required />
+            <label for="mensagem">Mensagem</label>
+            <textarea id="mensagem" name="mensagem" placeholder="Como posso ajudar?" required></textarea>
+            <button type="submit">Enviar mensagem</button>
+          </form>
+        </div>
+      </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+      <div class="footer-inner">
+        <div>© <span id="year"></span> Robson Dev Lab — Construindo experiências web simples.</div>
+        <div class="social">
+          <a href="#">LinkedIn</a>
+          <a href="#">GitHub</a>
+          <a href="mailto:robson.dev.lab@example.com">Email</a>
+        </div>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
